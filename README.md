@@ -14,15 +14,16 @@ Grafana dashboards to evaluate **strategic governance in public administration**
 
 strategic-governance-dashboards/
 ├─ dashboards/
-│ ├─ operational.json
-│ ├─ citizen_experience.json
-│ └─ innovation_digital.json
+│  ├─ operational.json
+│  ├─ citizen_experience.json
+│  └─ innovation_digital.json
 ├─ docs/
-│ └─ screenshots/
-│ ├─ operational.png
-│ ├─ citizen_experience.png
-│ └─ innovation_digital.png
+│  └─ screenshots/
+│     ├─ operational.png
+│     ├─ citizen_experience.png
+│     └─ innovation_digital.png
 └─ README.md
+
 
 - `dashboards/*.json`: exported dashboards (Classic model) ready to import into Grafana.  
 - `docs/screenshots/*`: illustrative images for the README and report.
