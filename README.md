@@ -17,11 +17,13 @@ strategic-governance-dashboards/
 ├─ dashboards/
 │ ├─ operational.json
 │ ├─ citizen_experience.json
+│ ├─ chatbot_performance.json
 │ └─ innovation_digital.json
 ├─ docs/
 │ └─ screenshots/
 │ ├─ operational.png
 │ ├─ citizen_experience.png
+│ ├─ chatbot_performance.json
 │ └─ innovation_digital.png
 └─ README.md
 ```
@@ -122,9 +124,9 @@ Each dashboard includes:
 ![Innovation & Digital](docs/screenshots/innovation_digital.png)
 
 
-4) Chatbot Performance Considerations
+## 4) Chatbot Performance Considerations
 
-Focus: assess the chatbot’s ability to provide real-time, accurate, and satisfactory interactions with citizens.  
+**Focus**: assess the chatbot’s ability to provide real-time, accurate, and satisfactory interactions with citizens.  
 This dashboard evaluates efficiency, effectiveness, and user experience through a combination of performance and engagement metrics.
 
 **Indicators (global + monthly):**
@@ -155,7 +157,7 @@ This dashboard evaluates efficiency, effectiveness, and user experience through 
 
 ---
 
-## 🛠️ How to Import the Dashboards into Grafana
+## How to Import the Dashboards into Grafana
 
 1. Go to Grafana → *Dashboards* → **Import**  
 2. Upload a `.json` file from the `dashboards/` folder in this repository  
@@ -168,7 +170,7 @@ This dashboard evaluates efficiency, effectiveness, and user experience through 
 
 ---
 
-## 🧪 Example Data (Jul–Sep)
+## Example Data (Jul–Sep)
 
 The dashboards include **fictitious demo data** to illustrate:
 
