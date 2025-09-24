@@ -121,6 +121,38 @@ Each dashboard includes:
 **Screenshot (example):**  
 ![Innovation & Digital](docs/screenshots/innovation_digital.png)
 
+
+4) Chatbot Performance Considerations
+
+Focus: assess the chatbot’s ability to provide real-time, accurate, and satisfactory interactions with citizens.  
+This dashboard evaluates efficiency, effectiveness, and user experience through a combination of performance and engagement metrics.
+
+**Indicators (global + monthly):**
+
+- **Task completion rate (%)**  
+  - Global: gauge  
+  - Monthly: gauges per month  
+
+- **User engagement (number of interactions)**  
+  - Global: stat (total interactions)  
+  - Monthly: bar chart (Jul–Sep)  
+
+- **Average conversation length (minutes)**  
+  - Global: stat (mean value)  
+  - Monthly: bar chart  
+
+- **User satisfaction score (%)**  
+  - Global: gauge  
+  - Monthly: gauges per month  
+
+- **Response accuracy (%)**  
+  - Global: gauge  
+  - Monthly: gauges per month  
+
+**Screenshot (example):**
+
+![Chatbot Performance](docs/screenshots/chatbot_performance.png)
+
 ---
 
 ## 🛠️ How to Import the Dashboards into Grafana
